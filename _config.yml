@@ -33,7 +33,7 @@ defaults:
 url: https://clean-oryx.cloudvent.net
 baseurl: 
 google_analytics_key: 
-logo: "/uploads/download.jpeg"
+logo: "/uploads/icon.jpeg"
 description: Jekyll template with example content for a not-for-profit organisation.
 author:
   name: 
